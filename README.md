@@ -1,2 +1,2 @@
-# https://oi.com
+# https://yy.io
 oi
